@@ -5,6 +5,7 @@
 ![数据说明](http://orvltx8rw.bkt.clouddn.com/github/2.png "数据说明")
 数据下载:[链接](https://pan.baidu.com/s/1bpjOqa7)，提取码:g8tw</br>
 ## 团队成员及分工
+　　队伍名称:奖金是可以改善生活的</br>
 　　共三名成员:晚安奖金(我)、footballreg、buptAnt</br>
 　　由于其中一名成员个人原因，后来没有参与，实际比赛由两人完成。两人分别完成了两种方案，最后结果是两种方案结果的融合。其中第一种方案(FirstWayToDo)是我完成的，另外一种方案(SecondWayToDo)是队友完成的。队友完成的方案里面有详细说明，这里就不再赘述。这里主要说明第一种方案。</br>
 ## 成绩
@@ -15,3 +16,4 @@
 　　pandas、numpy、xgboost</br>
 　　可能需要20G以上的内存</br>
 　　目录结构可能需要根据自己的情况修改一下</br>
+## SecondWayToDo方案介绍
